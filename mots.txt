@@ -35,3 +35,8 @@ anaconda
 fortification
 ornithorynque
 arcane
+rotule
+ovale
+panda
+gorille
+serpentine
