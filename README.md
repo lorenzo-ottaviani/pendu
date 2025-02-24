@@ -1,4 +1,4 @@
-# Pendu
+# **Pendu**
 
 <img src="./image/vue_jeu.png" alt="Aperçu d'une partie en cours.">
 
