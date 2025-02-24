@@ -37,3 +37,6 @@ ornithorynque
 arcane
 rotule
 ovale
+panda
+gorille
+serpentine
